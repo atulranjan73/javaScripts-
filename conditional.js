@@ -44,8 +44,3 @@
 // n = "ruddu"
 // console.log(n)
 
-let nums  = [3,4,5,6,7];
-console.log(nums[2]+nums[3]+nums[nums.length-1])
-nums.push() // add the vlaue end 
-nums.unshift(8,9)
-console.log(nums)
